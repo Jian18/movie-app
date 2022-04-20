@@ -1,5 +1,5 @@
 import './App.css';
-import MoviePreview from './components/movie-preview/MoviePreview';
+import MoviePreview from './components/moviePreview/MoviePreview';
 
 function App() {
   return (
